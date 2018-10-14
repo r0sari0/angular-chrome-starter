@@ -1,4 +1,4 @@
-# Boilerplate for Chrome extension with angular browser action
+# Boilerplate for Chrome extension with angular 6 browser action
 
 Boilerplate for chrome extension using typescript and webpack with auto reload chrome extension plugin. Browser action made in angular.
 
